@@ -1,0 +1,13 @@
+@media screen and (max-width: 1189px) {
+    .card{
+        width: 48%;
+    }
+}
+@media screen and (max-width: 890px){
+    .cards-wrap{ 
+        justify-content: center;
+    }
+    .card{
+        width: 90%;
+    }
+}
